@@ -1,3 +1,2 @@
-import galleryItems from "./gallery-items"
-
-console.dir(galleryItems);
+import galleryItem from './gallery-items.js'
+console.dir (galleryItem)
